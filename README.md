@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Je suis Johan</h1>
+<h1 align="center">Hey 👋, Je suis Johan !</h1>
 <h3 align="center">J'aime développer des projets.. Plus ou moins utiles.. Principalement inutile</h3>
 
 - 🔭 Je travaille actuellement sur [Anti Coupable](https://anticoupable.tk), Un bot Discord.
