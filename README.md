@@ -3,9 +3,9 @@
 
 - 🔭 Je travaille actuellement sur [Anti Coupable](https://anticoupable.tk)
 
-- 🌱 Je code principalement en **NodeJS**
-
 - ⌨ Je travaille aussi sur [Crypterm](https://github.com/johan-perso/crypterm)
+
+- 🌱 Je code principalement en **NodeJS**
 
 - 👨‍💻 Tous mes projets sont ici [https://johan-perso.tk](https://johan-perso.tk)
 
