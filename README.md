@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, Je suis Johan !</h1>
-<h3 align="center">J'aime développer des projets.. Plus ou moins utiles.. Principalement inutile</h3>
+<h3 align="center">J'aime développer des projets.. plus ou moins utiles.. principalement inutile</h3>
 
-- 🔭 Je travaille actuellement sur [Anti Coupable](https://anticoupable.tk), Un bot Discord.
+- 🔭 Je travaille actuellement sur [Anti Coupable](https://anticoupable.tk), un bot Discord.
 
-- ⌨ Je travaille aussi sur [Crypterm](https://github.com/johan-perso/crypterm), Un outil pour chiffrer du texte depuis un terminal.
+- ⌨ Je travaille aussi sur [Crypterm](https://github.com/johan-perso/crypterm), un outil pour chiffrer du texte depuis un terminal.
 
 - 🌱 Je code principalement en **NodeJS**
 
