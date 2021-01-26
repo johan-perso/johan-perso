@@ -7,7 +7,7 @@
 
 - 🌱 I mainly code in **NodeJS**.
 
-- 👨‍💻 Almost all of my projects are [here (in french)](https://johan-perso.glitch.me)
+- 👨‍💻 Almost all of my projects are [here (in french)](https://johan-perso.glitch.me).
 
 - 📫 Contact **Johan#8021 (Discord), @Johan_Perso (Twitter)**
 
