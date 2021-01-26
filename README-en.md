@@ -15,4 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johan-perso&show_icons=true&locale=en&layout=compact" alt="johan-perso" /></p>
 
+#### Version française [ici](https://github.com/johan-perso/johan-perso/blob/main/README.md)
 <!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator -->
