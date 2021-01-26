@@ -7,7 +7,7 @@
 
 - 🌱 Je code principalement en **NodeJS**
 
-- 👨‍💻 Tous mes projets sont [ici](https://johan-perso.tk)
+- 👨‍💻 Presque tous mes projets sont [ici](https://johan-perso.tk)
 
 - 📫 Me contacter **Johan#8021 (Discord), @Johan_Perso (Twitter)**
 
