@@ -9,7 +9,7 @@
 
 - 👨‍💻 Presque tous mes projets sont [ici](https://johan-perso.tk)
 
-- 📫 Me contacter **Johan#8021 (Discord), @Johan_Perso (Twitter)**
+- 📫 Me contacter : **Johan#8021 (Discord), @Johan_Perso (Twitter)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true&locale=en" alt="johan-perso" /></p>
 
