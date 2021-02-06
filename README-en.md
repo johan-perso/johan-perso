@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan !</h1>
 <h3 align="center">I like code projects.. more or less useful.. often useless.</h3>
 
-- 🔭 I’m currently working on [Anti Coupable](https://johan-perso.github.io/anticoupable.github.io/), a French Discord bot.
+- 🔭 I’m currently working on [Anti Coupable](https://johan-perso.github.io/anticoupable-web.github.io/), a French Discord bot.
 
 - ⌨ I also work on [Crypterm](https://github.com/johan-perso/crypterm), a tool for encrypt / decrypt text from a terminal.
 
