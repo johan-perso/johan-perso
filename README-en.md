@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Anti Coupable](https://johan-perso.github.io/anticoupable-web.github.io/), a French Discord bot.
 
-- ⌨ I also work on [Crypterm](https://github.com/johan-perso/crypterm), a tool for encrypt / decrypt text from a terminal.
+- ⌨ I also work on many other things that you can view from my website...
 
 - 🌱 I mainly code with **NodeJS**.
 
