@@ -5,11 +5,11 @@
 
 - 🔭 Je travaille actuellement sur [Anti Coupable](https://johan-perso.github.io/anticoupable-web.github.io/), un bot Discord.
 
-- ⌨ Je travaille aussi sur [Crypterm](https://github.com/johan-perso/crypterm), un outil pour chiffrer du texte depuis un terminal.
+- ⌨ Je travaille aussi sur pleins d'autre chose que tu peux voir sur mon site...
 
 - 🌱 Je code principalement avec **NodeJS**.
 
-- 👨‍💻 Presque tous mes projets sont [ici](https://johan-perso.tk).
+- 👨‍💻 Presque tous mes projets sont [ici](https://johan-perso.glitch.me).
 
 - 📫 Me contacter : **Johan#8021 (Discord), @Johan_Stickman (Twitter)**.
 
