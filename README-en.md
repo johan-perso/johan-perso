@@ -7,7 +7,7 @@
 
 - 🌱 I mainly code with **NodeJS**.
 
-- 👨‍💻 All of my publics projects are [here (but in french)](https://johanstickman.com/#project).
+- 👨‍💻 All of my publics projects are [here](https://johanstickman.com/#project) (but in french).
 
 - 📫 If you want to contact me: **Johan#8021 (Discord), @Johan_Stickman (Twitter)**
 
