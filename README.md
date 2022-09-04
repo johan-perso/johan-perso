@@ -3,11 +3,11 @@
 <h1 align="center">Hey 👋, Je suis Johan !</h1>
 <h3 align="center">J'aime développer des projets.. plus ou moins utiles.. principalement inutile.</h3>
 
-- 🔭 Je travaille actuellement sur [beaucoup trop de choses](https://johanstickman.com/project).
+- 🔭 Je travaille actuellement sur [beaucoup trop de choses](https://johanstick.me/project).
 
 - 🌱 Je code principalement avec **NodeJS**.
 
-- 👨‍💻 Tous mes projets publiques sont [ici](https://johanstickman.com/project) (déso tout ceux qui ❤️ l'open source).
+- 👨‍💻 Tous mes projets publiques sont [ici](https://johanstick.me/project) (déso tout ceux qui ❤️ l'open source).
 
 - 📫 Me contacter : **Johan#8021 (Discord), @Johan_Stickman (Twitter)**.
 
