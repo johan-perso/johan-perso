@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my publics projects are [here](https://johanstick.me/project) (but in french for the listing page).
 
-- 📫 If you want to contact me: **Johan#8021 (Discord), @Johan_Stickman (Twitter)**
+- 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
     *(just tell me you came from here, there's so many bot in my dm)*
 
