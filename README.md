@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tous mes projets publiques sont [ici](https://johanstick.me/project) (déso tout ceux qui ❤️ l'open source).
 
-- 📫 Me contacter : **Johan#8021 (Discord), @Johan_Stickman (Twitter)**.
+- 📫 Me contacter : [Twitter](https://twitter.com/messages/compose?text=Salut%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true&locale=en" alt="johan-perso's stats"/></p>
 
