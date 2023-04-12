@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Johan !</h1>
 <h3 align="center">I like to code projects.. more or less useful.. often useless.</h3>
 
-- 🔭 I’m currently working on [many things](https://johanstick.me/project), can't even list everything
+- 🔭 I’m currently working on [many things](https://johanstick.me/#project), can't even list everything
 
 - 🌱 I mainly code with **NodeJS**.
 
-- 👨‍💻 All of my publics projects are [here](https://johanstick.me/project) (but in french for the listing page).
+- 👨‍💻 All of my public projects are [here](https://johanstick.me/#project), but in French...
 
 - 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
