@@ -3,11 +3,11 @@
 <h1 align="center">Hey 👋, Je suis Johan !</h1>
 <h3 align="center">J'aime développer des projets.. plus ou moins utiles.. principalement inutile.</h3>
 
-- 🔭 Je travaille actuellement sur [beaucoup trop de choses](https://johanstick.me/project).
+- 🔭 Je travaille actuellement sur [beaucoup trop de choses](https://johanstick.me/#project).
 
 - 🌱 Je code principalement avec **NodeJS**.
 
-- 👨‍💻 Tous mes projets publiques sont [ici](https://johanstick.me/project) (déso tout ceux qui ❤️ l'open source).
+- 👨‍💻 Tous mes projets publics sont [ici](https://johanstick.me/#project), ou sur GitHub pour les moins importants.
 
 - 📫 Me contacter : [Twitter](https://twitter.com/messages/compose?text=Salut%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
