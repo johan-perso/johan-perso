@@ -1,19 +1,23 @@
 ###### English version [here](https://github.com/johan-perso/johan-perso/blob/main/README-en.md).
 
-<h1 align="center">Hey 👋, Je suis Johan !</h1>
-<h3 align="center">J'aime développer des projets.. plus ou moins utiles.. principalement inutile.</h3>
+## Hey 👋, Je suis Johan !</h1>
 
-- 🔭 Je travaille actuellement sur [beaucoup trop de choses](https://johanstick.me/#project).
+#### J'essaye de développer des projets qui seront utiles pour tout le monde !
 
-- 🌱 Je code principalement avec **NodeJS**.
+- 👨‍ Mes projets sont disponibles [juste ici](https://johanstick.me/#project).
 
-- 👨‍💻 Tous mes projets publics sont [ici](https://johanstick.me/#project), ou sur GitHub pour les moins importants.
+- 🌱 Je code principalement avec **NodeJS**, mais j'apprends de nouvelles technologies.
+
+- 🍵 Tu peux me soutenir en me payant via [Ko-Fi](https://ko-fi.com/johan_stickman)
 
 - 📫 Me contacter : [Twitter](https://twitter.com/messages/compose?text=Salut%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true&locale=en" alt="johan-perso's stats"/></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johan-perso&show_icons=true&locale=en&layout=compact" alt="johan-perso's most used languages"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-perso&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johan-perso&" alt="johan-perso" /></p>
-<!-- Fait avec https://rahuldkjain.github.io/gh-profile-readme-generator -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johan-perso&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johan_stickman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7M06L7)
