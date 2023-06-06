@@ -1,21 +1,23 @@
 ###### Version française [ici](https://github.com/johan-perso/johan-perso/blob/main/README.md)
 
-<h1 align="center">Hi 👋, I'm Johan !</h1>
-<h3 align="center">I like to code projects.. more or less useful.. often useless.</h3>
+## Hi 👋, I'm Johan!</h1>
 
-- 🔭 I’m currently working on [many things](https://johanstick.me/#project), can't even list everything
+#### I try to code projects that can be useful for everyone!
 
-- 🌱 I mainly code with **NodeJS**.
+- 👨‍ All of my projects can be found [here](https://johanstick.me/#project) (in french).
 
-- 👨‍💻 All of my public projects are [here](https://johanstick.me/#project), but in French...
+- 🌱 I mainly use **NodeJS** to code, but I may learn another languages
 
-- 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
+- 🍵 You can support me through [Ko-Fi](https://ko-fi.com/johan_stickman)
 
-    *(just tell me you came from here, there's so many bot in my dm)*
+- 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick) *(just tell me you came from here, there's so many bot in my dm)*.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true&locale=en" alt="johan-perso's stats"/></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johan-perso&show_icons=true&locale=en&layout=compact" alt="johan-perso's most used languages"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-perso&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johan-perso&" alt="johan-perso" /></p>
-<!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johan-perso&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johan_stickman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7M06L7)
