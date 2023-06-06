@@ -4,13 +4,13 @@
 
 #### I try to code projects that can be useful for everyone!
 
-- 👨‍ All of my projects can be found [here](https://johanstick.me/#project) (in french).
+- 👨‍ All of my projects can be found [here](https://johanstick.me/#project) (in French).
 
 - 🌱 I mainly use **NodeJS** to code, but I may learn another languages
 
 - 🍵 You can support me through [Ko-Fi](https://ko-fi.com/johan_stickman)
 
-- 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick) *(just tell me you came from here, there's so many bot in my dm)*.
+- 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick) *(just tell me you came from here, there's so many bots in my dm)*.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true)
 
