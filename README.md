@@ -4,7 +4,7 @@
 
 #### J'essaye de développer des projets qui seront utiles pour tout le monde !
 
-- 👨‍ Mes projets sont disponibles [juste ici](https://johanstick.me/#project).
+- 👨‍ Mes projets sont disponibles [juste ici](https://johanstick.fr/#project).
 
 - 🌱 Je code principalement avec **NodeJS**, mais j'apprends de nouvelles technologies.
 
