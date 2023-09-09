@@ -4,7 +4,7 @@
 
 #### I try to code projects that can be useful for everyone!
 
-- 👨‍ All of my projects can be found [here](https://johanstick.me/#project) (in French).
+- 👨‍ All of my projects can be found [here](https://johanstick.fr/#project) (in French).
 
 - 🌱 I mainly use **NodeJS** to code, but I may learn another languages
 
