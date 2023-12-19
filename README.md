@@ -12,9 +12,9 @@
 
 - 📫 Me contacter : [Twitter](https://twitter.com/messages/compose?text=Salut%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=johan-perso&show_icons=true)
+![GitHub stats](https://github-readme-stats-johan-stickman.vercel.app/api?username=johan-perso&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johan-perso&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-johan-stickman.vercel.app/api/top-langs/?username=johan-perso&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johan-perso&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
