@@ -6,9 +6,9 @@
 
 - 👨‍ All of my projects can be found [here](https://johanstick.fr/#project) (in French).
 
-- 🌱 I mainly use **NodeJS** and **Dart** for mobile apps.
+- 🌱 I mainly use **JavaScript** and **Dart** for my projects.
 
-- 🍵 You can support me through [Ko-Fi](https://ko-fi.com/johan_stickman) or [PayPal](https://paypal.me/moipastoii).
+- 🍵 You can support me through [Ko-Fi](https://ko-fi.com/johan_stickman), [PayPal](https://paypal.me/moipastoii) or in [cryptos](https://johanstick.fr/#donate).
 
 - 📫 If you want to contact me: [Twitter](https://twitter.com/messages/compose?text=Hello%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).  
 *(just tell me you came from here, there's so many bots in my dm)*.
