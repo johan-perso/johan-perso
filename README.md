@@ -6,9 +6,9 @@
 
 - 👨‍ Mes projets sont disponibles [juste ici](https://johanstick.fr/#project).
 
-- 🌱 Je code principalement avec **NodeJS** et en **Dart**.
+- 🌱 Je code principalement en **JavaScript** et en **Dart**.
 
-- 🍵 Tu peux me soutenir via [Ko-Fi](https://ko-fi.com/johan_stickman) ou [PayPal](https://paypal.me/moipastoii).
+- 🍵 Tu peux me soutenir via [Ko-Fi](https://ko-fi.com/johan_stickman), [PayPal](https://paypal.me/moipastoii) ou en [cryptomonnaie](https://johanstick.fr/#donate).
 
 - 📫 Me contacter : [Twitter](https://twitter.com/messages/compose?text=Salut%20%F0%9F%91%8B&recipient_id=975789391594557440), [Telegram](https://t.me/JohanStick).
 
